@@ -1,0 +1,37 @@
+{"products":{
+    
+    "id":2,
+    "category":"shoses",
+    "image":"c1.img",
+    "price": 50.23,
+    "ratio": 2.75
+},
+{
+    "id":2,
+    "category":"shoses",
+    "image":"c1.img",
+    "price": 50.23,
+    "ratio": 2.75
+},
+{
+    "id":2,
+    "category":"shoses",
+    "image":"c1.img",
+    "price": 50.23,
+    "ratio": 2.75
+},
+{
+    "id":2,
+    "category":"shoses",
+    "image":"c1.img",
+    "price": 50.23,
+    "ratio": 2.75
+},
+{
+    "id":2,
+    "category":"shoses",
+    "image":"c1.img",
+    "price": 50.23,
+    "ratio": 2.75
+}
+}
